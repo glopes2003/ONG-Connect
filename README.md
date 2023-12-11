@@ -50,6 +50,16 @@ OBS: Poderá haver mudanças em relação ás tecnologias utilizadas dependendo 
 
 <br>
 
+><h3> Como rodar a aplicação: </h3>
+
+ - Por uma IDE no seu pc:
+
+       1. npm install
+       2. npm start
+       Obs: certifique-se de estar dentro da pasta da aplicação que contém todo o conteúdo antes de executar esses passos
+- Através do Deploy:
+   
+
 ><h3> Como navegar na aplicação: </h3>
 
   A aplicação ainda não possui uma conexão com um banco de dados, como o MySQL, SQLServer... utiliza-se um banco de dados "fake" armazenado em um arquivo javascript. Dito isso, alguns dados foram pré-definidos para um eficiente desenvolvimento e teste da aplicação. 
