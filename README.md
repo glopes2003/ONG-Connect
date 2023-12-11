@@ -57,8 +57,10 @@ OBS: Poderá haver mudanças em relação ás tecnologias utilizadas dependendo 
        1. npm install
        2. npm start
        Obs: certifique-se de estar dentro da pasta da aplicação que contém todo o conteúdo antes de executar esses passos
-- Através do Deploy:
    
+- Através do deploy na Vercel: https://ong-connect-deploy.vercel.app/
+
+<br>
 
 ><h3> Como navegar na aplicação: </h3>
 
