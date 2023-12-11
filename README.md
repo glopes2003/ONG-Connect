@@ -1,31 +1,74 @@
-# Create React App
+<div align="center">
+<a href="https://imgur.com/gbqKhmE"><img src="https://i.imgur.com/gbqKhmE.png" title="source: imgur.com" width="150px"  height="100px" /></a>
+</div>
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+<div align = center> 
 
-## Deploy Your Own
+# ONG Connect :)
+</div>
+<br>
 
-Deploy your own Create React App project with Vercel.
+ O projeto tem como proposta a criação de um banco de dados acompanhado por uma interface que permitirá o registro, consulta e visualização eficientes de documentos.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+Docente: Clóves Rocha
+<br>
+Estudantes: David Philien Labanca, Giovana Lopes, Gustavo Luiz,
+João Vitor Castro e Renan Laurindo
+<br>
+<br>
 
-_Live Example: https://create-react-template.vercel.app/_
+><h3>Tecnologias utilizadas:</h3>
 
-## Available Scripts
+<div align="start">
+     <img align="center" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60px" height="60px"/>
+     <img align="center" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60px" height="60px"/>
+     <img align="center" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="60px" height="60px"/>
+     <img align="center" alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="60px" height="60px"/>
+ Vercel
+ 
+</div>
+<br>
 
-In the project directory, you can run:
+OBS: Poderá haver mudanças em relação ás tecnologias utilizadas dependendo do desenrolar do projeto
 
-### `npm start`
+<br>
+<br>
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+><h3>Funcionalidades:</h3>
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+<a href="https://imgur.com/7mQH17F"><img src="https://i.imgur.com/7mQH17F.gif" title="source: imgur.com" width="400px" height="250px" /></a>
 
-### `npm test`
+<br/>
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+><h3> Artefatos de Designer (proposta): </h3>
 
-### `npm run build`
+   Baseado na arquitetura de software MVC (Model, View, Controller)
 
-Builds the app for production to the `build` folder.
+    1. Model: Interação com o Banco de dados
+    2. View: Interface do usuário
+    3. Controller: Fluxo de solicitações (conexão entre o model e o view)
 
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+<br>
+
+><h3> Como navegar na aplicação: </h3>
+
+  A aplicação ainda não possui uma conexão com um banco de dados, como o MySQL, SQLServer... utiliza-se um banco de dados "fake" armazenado em um arquivo javascript. Dito isso, alguns dados foram pré-definidos para um eficiente desenvolvimento e teste da aplicação. 
+ 
+ - Na página de Login entrar com os seguintes dados:
+
+ 
+        E-mail: teste@teste.com
+        Senha: 123456
+   
+ - Na página de consulta, a fim de obter algum resultado, inserir algum dos seguintes nomes:
+
+ 
+       1. Marcos Almeida
+       2. Maria Antunes
+       3. Eric Brito
+       4. Letícia Castro
+
+
+ - Na página de registro, infelizmente, os novos dados são armazenados no servidor e não no arquivo javascript. Dito isso, um alerta surgirá na tela informando o sucesso do registro, porém os novos dados não poderão ser consultados.
+
+
