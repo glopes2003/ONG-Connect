@@ -52,7 +52,7 @@ OBS: Poderá haver mudanças em relação ás tecnologias utilizadas dependendo 
 
 ><h3> Como rodar a aplicação: </h3>
 
- - Por uma IDE no seu pc:
+ - Através de uma IDE no seu pc:
 
        1. npm install
        2. npm start
